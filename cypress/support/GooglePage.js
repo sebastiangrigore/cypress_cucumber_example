@@ -1,5 +1,3 @@
-
-
 class GooglePage {
   static visit(url) {
     cy.visit(url);
